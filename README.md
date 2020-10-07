@@ -2,5 +2,5 @@
 Unreal Turbo Compiler Accelerate Editor Lights, Shaders compiling  
 
 Performance will be impact for slow machine so this plug set High Priority for all process Unreal.
-If ypu have freezing computer before next compile start just close widget plugin and open after start because 
+If you have freezing computer before next compile start just close widget plugin and open after start because 
 he monitoring copmpile. So you can more control you freeze. 
